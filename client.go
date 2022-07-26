@@ -3,8 +3,8 @@ package cclient
 import (
 	"time"
 
-	http "github.com/Carcraftz/fhttp"
-	 "github.com/Carcraftz/fhttp/cookiejar"
+	http "github.com/desperatee/fhttp"
+	 "github.com/desperatee/fhttp/cookiejar"
 
 	"golang.org/x/net/proxy"
 
